@@ -1,0 +1,1 @@
+Репозиторий MineOS Server R1 и вспомогательного софта под OpenComputers.
