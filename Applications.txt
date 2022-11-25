@@ -315,24 +315,6 @@
     ["version"]=1.0,
   },
   {
-    ["name"]="usr/misc/greetings/English.txt",
-    ["url"]="FrisKAY/MineOS_Server/master/Applications/Motd/English.txt",
-    ["type"]="Script",
-    ["version"]=1.0,
-  },
-  {
-    ["name"]="usr/misc/greetings/Russian.txt",
-    ["url"]="FrisKAY/MineOS_Server/master/Applications/Motd/Russian.txt",
-    ["type"]="Script",
-    ["version"]=1.0,
-  },
-  {
-    ["name"]="etc/motd",
-    ["url"]="FrisKAY/MineOS_Server/master/Applications/Motd/motd.lua",
-    ["type"]="Script",
-    ["version"]=1.0,
-  },
-  {
     ["name"]="bin/archive.lua",
     ["url"]="FrisKAY/MineOS_Server/master/Applications/archive.lua",
     ["type"]="Script",
