@@ -392,22 +392,6 @@
     ["createShortcut"]="dock",
     ["version"]=1.0,
   },
-  --Приложение Чат
-  {
-    ["name"]="MineOS_Server/Applications/Chat",
-    ["url"]="FrisKAY/MineOS_Server/master/Applications/Chat/Chat.lua",
-    ["about"]="FrisKAY/MineOS_Server/master/Applications/Chat/About.txt",
-    ["type"]="Application",
-    ["icon"]="FrisKAY/MineOS_Server/master/Applications/Chat/Icon.pic",
-    ["createShortcut"]="desktop",
-    ["version"]=1.0,
-  },
-  {
-    ["name"]="MineOS_Server/System/Chat/Avatars/MyAvatar.pic",
-    ["url"]="FrisKAY/MineOS_Server/master/Applications/Chat/MyAvatar.pic",
-    ["type"]="Script",
-    ["version"]=1.0,
-  },
   ----------------------------------------------------- Приложения с ресурсами --------------------------------------------------------------------------
   {
     ["name"]="MineOS_Server/Applications/BufferDemo",
